@@ -1,0 +1,12 @@
+bin/
+build/
+misc/eql/ir/*.s
+src/*.o
+src/**/*.o
+src/**/**/*.o
+tests/*_tests
+tests/*.o
+tmp
+.DS_Store
+**/*.dSYM*
+valgrind.log
